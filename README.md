@@ -19,10 +19,10 @@
 ## 🎥 演示效果
 
 ### 🔒 文本脱敏
-<video src="脱敏.mp4" controls="controls" width="100%"></video>
+[🎥 点击观看脱敏演示视频 (MP4)](https://github.com/phodoctor/Text-Desensitization-Tool-for-Windows/raw/refs/heads/main/%E8%84%B1%E6%95%8F.mp4)
 
 ### ↩️ 文本还原
-<video src="还原.mp4" controls="controls" width="100%"></video>
+[🎥 点击观看还原演示视频 (MP4)](https://github.com/phodoctor/Text-Desensitization-Tool-for-Windows/blob/main/%E8%BF%98%E5%8E%9F.mp4)
 
 ## 📋 支持的敏感信息类型
 
