@@ -18,7 +18,7 @@ except ImportError:
 
 # Page Configuration
 st.set_page_config(
-    page_title="文本脱敏工具",
+    page_title="Windows 文本脱敏工具",
     page_icon="🛡️",
     layout="wide"
 )
@@ -31,7 +31,7 @@ def get_analyzer():
 
 analyzer = get_analyzer()
 
-st.title("🛡️ 文本脱敏与还原工具")
+st.title("🛡️ Windows 文本脱敏与还原工具")
 st.markdown("""
 本工具可以帮助您自动识别文本中的敏感信息并将其替换为占位符。同时生成一份映射表，用于将来将文本还原。
 """)

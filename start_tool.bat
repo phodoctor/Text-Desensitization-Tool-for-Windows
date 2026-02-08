@@ -1,7 +1,7 @@
 @echo off
 setlocal
 cd /d "%~dp0"
-echo 🚀 正在启动文本脱敏工具...
+echo 🚀 正在启动 Windows 文本脱敏工具...
 
 :: 检查是否存在虚拟环境
 if not exist ".venv" (
