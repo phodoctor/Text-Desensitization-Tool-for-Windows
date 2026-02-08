@@ -16,6 +16,14 @@
 - **↩️ 数据还原**：特有的脱敏/还原映射机制，支持数据闭环。
 - **🖥️ 交互友好**：提供直观的 Web 操作界面。
 
+## 🎥 演示效果
+
+### 🔒 文本脱敏
+<video src="脱敏.mp4" controls="controls" width="100%"></video>
+
+### ↩️ 文本还原
+<video src="还原.mp4" controls="controls" width="100%"></video>
+
 ## 📋 支持的敏感信息类型
 
 | 类型代码 | 描述 | 检测方式 |
