@@ -47,7 +47,7 @@
 
 1. 克隆本项目到本地：
    ```bash
-   git clone https://gitee.com/your-username/TextDesensitizationTool.git
+   git clone https://github.com/phodoctor/Text-Desensitization-Tool-for-Windows.git
    ```
 2. 进入项目目录，双击运行 **`start_tool.bat`**。
    > 脚本会自动创建虚拟环境、安装依赖并启动应用。
